@@ -1,0 +1,12 @@
+.center{
+    text-align: center;
+}
+
+.d-flex-own{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.violet{
+    color: rgb(109 40 217)
+}

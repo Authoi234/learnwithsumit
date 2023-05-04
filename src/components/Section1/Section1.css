@@ -1,0 +1,71 @@
+.margin-top{
+    margin-top: 100px;
+    margin-left: 70px;
+    margin-right: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: url(https://learnwithsumit.com/_next/static/media/pattern.afd33a3d.svg);
+}
+h1{
+    font-size: 40px;
+}
+
+.blue-color{
+    color: #38BDF8;
+}
+
+.sml-txt{
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+h4{
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.btn-intro{
+    color: black;
+    background-color: white;
+    border: 0.3px solid rgb(207, 207, 207);
+    padding: 15px 35px;
+    border-radius: 50px;
+}
+.btn-intro a{
+    color: black;
+   text-decoration: none;
+}
+.canvas-div{
+    width: 500px;
+    height: 375px;
+    border: 0.5px solid rgb(177, 177, 177);
+    line-height: 8px;
+    border-radius: 0 7px 7px 7px;
+}
+.canvas-div p{
+    font-size: 15px;
+}
+
+.red{
+    color: red;
+}
+.blue{
+    color: rgb(50, 123, 240);
+}
+.green{
+    color: rgb(0, 182, 0);
+}
+.btn-code{
+    background-color: white;
+    border: .5px solid rgb(180, 180, 180);
+    padding: 10px 18px;
+    cursor: crosshair;
+    border-radius: 7px 0 0 0;
+}
+.btn-code2{
+    background-color: rgb(242, 242, 242);
+    border: .5px solid rgb(180, 180, 180);
+    padding: 10px 18px;
+    cursor: none;
+    border-radius: 0 7px 0 0;
+}

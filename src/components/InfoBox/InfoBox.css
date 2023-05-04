@@ -1,0 +1,16 @@
+.box{
+    word-break: break-all;
+    width: 350px;
+    height: 300x;
+    border: 1px solid rgb(222, 222, 222);
+    padding: 20px;
+    box-shadow: 1.1px 2px 1px 1px rgb(193, 193, 193);
+}
+
+.box:hover div{
+    transform: scale(1.1);
+}
+
+h2{
+    font-size: 25px;
+}

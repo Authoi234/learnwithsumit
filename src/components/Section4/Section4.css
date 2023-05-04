@@ -1,0 +1,41 @@
+.sect4{
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 70px;
+}
+.violet{
+    color: purple;
+}
+.d-flex{
+    display: flex;
+}
+
+.first-compo{
+    display: flex;
+    margin-bottom: 20px;
+}
+.second-compo{
+    display: flex;
+    margin-bottom: 70px;
+}
+.big-img{
+    margin-left: 40px;
+}
+.small-imgs{
+    margin-right: 40px;
+    margin-left: 20px;
+}
+.big-img2{
+    margin-right: 40px;
+}
+.small-imgs2{
+    margin-left: 40px;
+}
+.img{
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.img:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}

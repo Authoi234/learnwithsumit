@@ -1,0 +1,22 @@
+.bg-div {
+    background: url(https://learnwithsumit.com/_next/static/media/shape_2_flipped.6c5d1ca3.svg);
+    background-repeat: no-repeat;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.blue {
+    color: rgb(109 40 217);
+}
+
+.d-flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
